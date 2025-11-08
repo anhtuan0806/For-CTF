@@ -136,13 +136,14 @@ $ rmdir test       # Xóa thư mục rỗng tên test
 
 ## 1.6 Quản Lý Tệp Tin Và Thư Mục
 
-| Lệnh   | Công dụng                 | Ví dụ                          |
-| ------ | ------------------------- | ------------------------------ |
-| `cp`   | Sao chép file             | `cp a.txt b.txt`               |
-| `mv`   | Di chuyển hoặc đổi tên    | `mv b.txt /home/anh/Documents` |
-| `rm`   | Xóa file                  | `rm b.txt`                     |
-| `diff` | So sánh nội dung hai file | `diff file1.txt file2.txt`     |
-| `grep` | Tìm chuỗi trong file      | `grep "Ubuntu" notes.txt`      |
+| Lệnh    | Công dụng                 | Ví dụ                          |
+| ------- | ------------------------- | ------------------------------ |
+| `cp`    | Sao chép file             | `cp a.txt b.txt`               |
+| `touch` | Tạo file                  | `touch a.txt`                  |
+| `mv`    | Di chuyển hoặc đổi tên    | `mv b.txt /home/anh/Documents` |
+| `rm`    | Xóa file                  | `rm b.txt`                     |
+| `diff`  | So sánh nội dung hai file | `diff file1.txt file2.txt`     |
+| `grep`  | Tìm chuỗi trong file      | `grep "Ubuntu" notes.txt`      |
 
 Ví dụ:
 
