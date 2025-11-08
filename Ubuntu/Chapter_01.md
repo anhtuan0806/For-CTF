@@ -250,4 +250,4 @@ hoặc bạn có thể xem online tại [Ubuntu Manpages](https://manpages.ubunt
 
 - Ubuntu là nền tảng mạnh mẽ và linh hoạt cho cả học tập và phát triển phần mềm.
 - Biết cách thao tác với dòng lệnh giúp bạn kiểm soát hệ thống hiệu quả hơn.
-- Ở chương tiếp theo, bạn sẽ học về **cài đặt phần mềm, quản lý gói và cấu hình hệ thống cơ bản**.
+- Ở chương tiếp theo, bạn sẽ học về **quản lý gói và cấu hình cơ bản**.
